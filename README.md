@@ -1,5 +1,3 @@
-
-<!-- Luffy Walking Banner (Red Theme) -->
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRpeTl2dmRkMGZoOXJxajBiZmRqYmRyOTR2ZTR1d2xqYnI0cW5uOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5eHNJcp52skHOfuD8N/giphy.gif" width="100%" />
 </p>
@@ -61,9 +59,17 @@ Red intent.
 ## 🧪 Labs & Platforms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-0b0b0b?style=for-the-badge&logo=hackthebox&logoColor=red" />
-  <img src="https://img.shields.io/badge/TryHackMe-0b0b0b?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  <a href="https://app.hackthebox.com/profile/YOUR_HTB_ID">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-0b0b0b?style=for-the-badge&logo=hackthebox&logoColor=red" />
+  </a>
+  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
+    <img src="https://img.shields.io/badge/TryHackMe-0b0b0b?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  </a>
+  <a href="https://portswigger.net/web-security">
+    <img src="https://img.shields.io/badge/PortSwigger_Labs-0b0b0b?style=for-the-badge&logo=burpsuite&logoColor=red" />
+  </a>
 </p>
+
 
 ---
 
