@@ -1,14 +1,5 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRpeTl2dmRkMGZoOXJxajBiZmRqYmRyOTR2ZTR1d2xqYnI0cW5uOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5eHNJcp52skHOfuD8N/giphy.gif" width="100%" />
-</p>
-
 <h1 align="center">Lucifer666XD</h1>
 <h3 align="center">Cybersecurity | OSINT | Active Directory | Web Pentesing</h3>
-
-<p align="center">
-  <i>“No matter how hard or impossible it is, never lose sight of your goal.”</i><br>
-  — Monkey D. Luffy
-</p>
 
 ---
 
