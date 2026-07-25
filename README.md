@@ -91,5 +91,3 @@ Red intent.
 </p>
 
 ---
-
-<h3 align="center">🔥 Luffy’s Will 🔥</h3>
